@@ -1,0 +1,26 @@
+<?php
+
+return array(
+    'Services_group' => 'مجموعة خدمات',
+    'add_Services_group' => 'اضافة مجموعة خدمات',
+    'services' => 'خدمات',
+    'save' => 'تم حفظ البيانات بنجاح',
+    'edit_s' => '>تم تعديل البيانات بنجاح.',
+    'group_name' => 'اسم المجموعة',
+    'note' => 'ملاحظات',
+    'add_sub_service' => 'اضافة خدمة فرعية',
+    'service_name' => 'اسم الخدمة',
+    'name' => 'الاسم',
+    'quantity' => 'العدد',
+    'process' => 'العمليات',
+    'choose_prodect' => 'اختر منتج',
+    'confirm' => 'تأكيد',
+    'delete' => 'حذف',
+    'totale' => 'الاجمالي',
+    'discount_value' => 'قيمة الخصم',
+    'Tax_rate' => 'نسبة الضريبة',
+    'Total_with_tax' => 'الاجمالي مع الضريبة',
+    'edit' => 'تعديل',
+       'Delete_a_service_group'=> 'حذف مجموعة خدمات',
+    '' => '',
+);
